@@ -1,0 +1,56 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "template two",
+      "intents": [
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "GetRemoteDataIntent",
+          "slots": [],
+          "samples": [
+            "how many astronauts are there on the international space station",
+            "currently how many astronauts are there on the international space station",
+            "currently how many astronauts are there in space",
+            "how many astronauts are there in space currently",
+            "how many astronauts are there in space",
+            "how many people are in space",
+            "how many people are in space now",
+            "how many people are currently in space",
+            "how many humans are in space",
+            "how many humans are in space now",
+            "how many humans are currently in space",
+            "how many astronauts are in space",
+            "how many astronauts are in space now",
+            "how many astronauts are currently in space"
+          ]
+        }
+      ],
+      "types": [],
+      "modelConfiguration": {
+        "fallbackIntentSensitivity": {
+          "level": "LOW"
+        }
+      }
+    }
+  },
+  "version": "3"
+}

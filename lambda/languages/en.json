@@ -1,0 +1,24 @@
+{
+    "SKILL_NAME": "the Dabble Lab remote API template",
+    "DEFAULT_MESSAGE": "This is the default message without API call.",
+    "ASTRONAUTS_RESPONSE": [ 
+        "There are currently {} astronauts in space."
+    ],
+    "HELP": [
+      "You can ask me about how many people are there in space currently."
+    ],
+    "HELP_REPROMPT": [
+      "To know about the astronauts currently in space, say: How many astronauts are there in space?"
+    ],
+    "FALLBACK": [
+      "Sorry, I didn't understand that. You can ask me about how many people are there in space currently."
+    ],
+    "FALLBACK_REPROMPT": [
+      "To know about the astronauts currently in space, say: How many astronauts are there in space?"
+    ],
+    "CANCEL_STOP_RESPONSE": [
+      "Goodbye!"
+    ],
+    "ERROR": "Sorry, I wasn't able to handle your last request. Could you say that again?",
+    "ERROR_REPROMPT": "Could you say that again?"
+}
